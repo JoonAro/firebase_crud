@@ -1,0 +1,23 @@
+body {
+  text-align: center;
+}
+
+#enterDetails {
+  float: left;
+  width: 50%;
+  color: #fffaf0;
+  background-color: #2f4f4f;
+}
+
+#findDetails {
+  float: left;
+  width: 50%;
+  color: #2f4f4f;
+  background-color: #fffaf0;
+}
+
+input {
+  width: 120px;
+}
+
+/*# sourceMappingURL=index.2cdaf7bc.css.map */
